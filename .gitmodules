@@ -1,3 +1,0 @@
-[submodule "files/augeas-pgpool"]
-	path = files/augeas-pgpool
-	url = https://github.com/mwhahaha/augeas-pgpool
